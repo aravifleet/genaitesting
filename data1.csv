@@ -1,0 +1,9 @@
+email,first_name,last_name,address1,city,state,zip,phone,shipping_method,payment_method,paymentvalue,comments
+aravi@test.com,Adam,Pearce,123 Street,NYC,NY,10001,3313410001,UPS Ground,House Account,1001,First test order
+test2@gmail.com,Sam,Rooney,456 Avenue,Boston,MA,02108,3313410002,UPS 2-Day,House Account,2002,Second test order
+techie_adi@fleet.com,Adithya,Manual,789 Tech Park Dr,San Francisco,CA,94105,3313410003,UPS Ground,House Account,3003,Third automated run
+dev_user@test.io,Michael,Angelo,101 Art Lane,Florence,AL,35630,3313410004,UPS 2-Day,House Account,4004,Checking shipping stability
+qa_tester@fleet.com,Sarah,Connor,202 Future St,Chicago,IL,60601,3313410005,UPS Ground,House Account,5005,Terminator test flow
+support_lead@test.com,John,Doe,303 Service Rd,Austin,TX,73301,3313410006,UPS 2-Day,House Account,6006,Customer support validation
+lead_qa@fleet.com,Elena,Fisher,404 Adventure Dr,Seattle,WA,98101,3313410007,UPS Ground,House Account,7007,Uncharted territory test
+final_test@test.com,Victor,Sullivan,505 Casino Blvd,Las Vegas,NV,89101,3313410008,UPS 2-Day,House Account,8008,Final smoke test run
